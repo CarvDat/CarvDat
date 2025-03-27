@@ -28,10 +28,5 @@
 
 <img src="https://i.pinimg.com/originals/fb/93/7e/fb937e921235c42ae3d492bdd40394e1.gif" alt="Meu GIF" align="right" width="160" height="100"/>
 
-![Snake animation](https://github.com/[SEU_USUARIO]/[SEU_REPOSITORIO]/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
 
 
