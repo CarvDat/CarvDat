@@ -1,4 +1,4 @@
-## Opaaaa! Eu sou o Lucas Carvalho👋
+## Opaaaa! Eu sou o Lucas C. Santos🤖
 
 - 🔭 Trabalhando com desenvolvimento web
 - 🌱 Estudando JavaScript, Bibliotecas Externas e UI/UX
