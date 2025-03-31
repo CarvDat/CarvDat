@@ -8,7 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarvDat&show_icons=true&theme=merko)](https://github.com/CarvDat/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvDat&layout=compact&theme=merko)
 
-### Tecnologias que uso:
+### Linguagens e Tecnologias:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
